@@ -442,7 +442,7 @@
 .save-live2d {
  visibility:hidden
 }
-/* @media(min-width:861px) {
+@media(min-width:861px) {
  .hide-live2d {
   background-color:#16a085;
   bottom:185px;
@@ -477,4 +477,4 @@
 }
 .hide-live2d-tool {
  bottom:15px
-} */
+}
